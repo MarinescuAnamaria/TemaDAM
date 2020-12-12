@@ -1,0 +1,139 @@
+{
+  "orase": [
+    {
+      "nume": "bucuresti",
+      "judet": "bucuresti",
+      "populatie": "30000",
+      "spitale": [
+        {
+          "id": "1",
+          "nume": "Universitar",
+          "zona": "Eroilor",
+          "nr_saloane": "5",
+          "pacienti": [
+            {
+              "id": "1",
+              "nume_pacient": "Ana",
+              "varsta": "12",
+              "grupa_sange": "AB4"
+            },
+            {
+              "id": "2",
+              "nume_pacient": "Mircea",
+              "varsta": "18",
+              "grupa_sange": "A2"
+            },
+            {
+              "id": "3",
+              "nume_pacient": "Marcel",
+              "varsta": "25",
+              "grupa_sange": "AB4"
+            },
+            {
+              "id": "4",
+              "nume_pacient": "Andreea",
+              "varsta": "78",
+              "grupa_sange": "B3"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "nume": "Coltea",
+          "zona": "Universitate",
+          "nr_saloane": "7",
+          "pacienti": [
+            {
+              "id": "1",
+              "nume_pacient": "Ionel",
+              "varsta": "29",
+              "grupa_sange": "01"
+            },
+            {
+              "id": "2",
+              "nume_pacient": "Costel",
+              "varsta": "98",
+              "grupa_sange": "AB4"
+            },
+            {
+              "id": "3",
+              "nume_pacient": "Raluca",
+              "varsta": "10",
+              "grupa_sange": "A2"
+            },
+            {
+              "id": "4",
+              "nume_pacient": "Ioana",
+              "varsta": "67",
+              "grupa_sange": "B3"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "nume": "Marius Nasta",
+          "zona": "Viilor",
+          "nr_saloane": "5",
+          "pacienti": [
+            {
+              "id": "1",
+              "nume_pacient": "Radu",
+              "varsta": "78",
+              "grupa_sange": "A2"
+            },
+            {
+              "id": "2",
+              "nume_pacient": "Diana",
+              "varsta": "67",
+              "grupa_sange": "B3"
+            },
+            {
+              "id": "3",
+              "nume_pacient": "Madalina",
+              "varsta": "25",
+              "grupa_sange": "AB4"
+            },
+            {
+              "id": "4",
+              "nume_pacient": "Daria",
+              "varsta": "72",
+              "grupa_sange": "01"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "nume": "Floreasca",
+          "zona": "Floreasca",
+          "nr_saloane": "6",
+          "pacienti": [
+            {
+              "id": "1",
+              "nume_pacient": "Sandra",
+              "varsta": "18",
+              "grupa_sange": "A2"
+            },
+            {
+              "id": "2",
+              "nume_pacient": "Alina",
+              "varsta": "45",
+              "grupa_sange": "A2"
+            },
+            {
+              "id": "3",
+              "nume_pacient": "Mihai",
+              "varsta": "29",
+              "grupa_sange": "AB4"
+            },
+            {
+              "id": "4",
+              "nume_pacient": "Alexandra",
+              "varsta": "35",
+              "grupa_sange": "01"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
